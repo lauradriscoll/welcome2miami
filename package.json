@@ -1,0 +1,28 @@
+{
+  "name": "welcome2miami",
+  "version": "1.0.0",
+  "description": "art project between two people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauradriscoll/welcome2miami.git"
+  },
+  "author": "lauradriscoll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lauradriscoll/welcome2miami/issues"
+  },
+  "homepage": "https://github.com/lauradriscoll/welcome2miami#readme",
+  "dependencies": {
+    "canvas-loop": "^1.0.7",
+    "object-assign": "^4.0.1",
+    "orbit-controls": "^1.0.4",
+    "simplex-noise": "^2.2.0",
+    "three-orbit-viewer": "^69.3.0",
+    "touch-position": "^2.0.0",
+    "unique-random-array": "^1.0.0"
+  }
+}
