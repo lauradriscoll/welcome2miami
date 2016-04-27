@@ -1,7 +1,3 @@
-/*
-  Renders a StreetView panorama in ThreeJS.
- */
-
 var THREE = require('three')
 var equirect = require('google-panorama-equirectangular')
 var panorama = require('google-panorama-by-location')
